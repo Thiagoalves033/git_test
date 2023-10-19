@@ -3,4 +3,4 @@ Adding a new line for rebase practice.
 A third line
 Fourth!?
 
-[INNOCENT] An innocent addition to the file.
+[TROUBLE] An innocent addition to the file.
